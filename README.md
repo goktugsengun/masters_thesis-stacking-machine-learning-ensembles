@@ -1,4 +1,5 @@
 Abstract
+
 This thesis investigates the potential for maximizing ensemble model performance
 by introducing diversity in the context of default prediction in financial markets.
 Default prediction is essential for financial institutions, as it enables more accurate
